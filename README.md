@@ -36,4 +36,24 @@ A passionate **Full-Stack Developer** who loves breaking down complex problems a
 ### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat-square&logo=firebase&logoColor=black)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=black)
+`DBeaver`
+
+---
+
+## 📫 How to Reach Me
+
+I am ready to bring my problem-solving mindset to your team. Let's build something great together!
+
+- 🌐 **Portfolio:** [japanouan.github.io](https://japanouan.github.io/)
+- 💼 **LinkedIn:** [Chaiyapong Jaroonrotjananan](https://www.linkedin.com/in/chaiyapong-jar/)
+- 📧 **Email:** [chaiyapong.jar@gmail.com](mailto:chaiyapong.jar@gmail.com)
+- 📞 **Phone:** 065-818-8674
+
+---
