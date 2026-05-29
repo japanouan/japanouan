@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Chaiyapong! 👋
 
-<!--
-**japanouan/japanouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Full-Stack Developer** who loves breaking down complex problems and architecting optimized, efficient solutions from the ground up. I thrive on building reliable systems with clean architecture, focusing on proactive design to deliver high-quality software.
 
-Here are some ideas to get you started:
+🌐 **Check out my live portfolio:** [japanouan.github.io](https://japanouan.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Currently Up To
+
+- 💼 **Looking for My First Role:** Actively seeking Full-Stack / Software Engineer opportunities to kickstart my career and bring value to a development team.
+- 🎨 **Portfolio Web:** Just finished building and deploying my personal portfolio website using Astro to showcase my skills and projects!
+- 🔄 **Continuous Improvement:** Planning to revamp and optimize my previous projects (like my *Real-or-Fake* project) to make them more robust and production-ready.
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
+### 🌐 Frameworks & Libraries
+![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/astro-%23FF5D01.svg?style=flat-square&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](
