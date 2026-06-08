@@ -6,14 +6,6 @@ A passionate **Full-Stack Developer** who loves breaking down complex problems a
 
 ---
 
-## 🚀 What I'm Currently Up To
-
-- 💼 **Looking for My First Role:** Actively seeking Full-Stack / Backend / Software Engineer opportunities to kickstart my career and bring value to a development team.
-- 🎨 **Portfolio Web:** Just finished building and deploying my personal portfolio website using Astro to showcase my skills and projects!
-- 🔄 **Continuous Improvement:** Planning to revamp and optimize my previous projects (like my *Real-or-Fake* project) to make them more robust and production-ready.
-
----
-
 ## 🛠️ My Tech Stack
 
 ### 💻 Programming Languages
