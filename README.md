@@ -2,7 +2,6 @@
 
 A passionate **Full-Stack Developer** who loves breaking down complex problems and architecting optimized, efficient solutions from the ground up. I thrive on building reliable systems with clean architecture, focusing on proactive design to deliver high-quality software.
 
-🌐 **Check out my live portfolio:** [japanouan.github.io](https://japanouan.github.io/)
 
 ---
 
@@ -22,6 +21,5 @@ I am ready to bring my problem-solving mindset to your team. Let's build somethi
 - 🌐 **Portfolio:** [japanouan.github.io](https://japanouan.github.io/)
 - 💼 **LinkedIn:** [Chaiyapong Jaroonrotjananan](https://www.linkedin.com/in/chaiyapong-jar/)
 - 📧 **Email:** [chaiyapong.jar@gmail.com](mailto:chaiyapong.jar@gmail.com)
-- 📞 **Phone:** 065-818-8674
 
 ---
