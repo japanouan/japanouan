@@ -8,7 +8,7 @@ A passionate **Full-Stack Developer** who loves breaking down complex problems a
 ### 🛠️ Skills & Tech Stack
 
 - 💻 **Programming Languages** : C#, JavaScript, TypeScript, PHP, SQL, Java, C
-- 🌐 **Frameworks & Libraries** : .NET Core, Laravel, React, React Native, Astro, Next.js
+- 🌐 **Frameworks & Libraries** : .NET Core, Laravel, React, React Native, Astro, Next.js, Spring Boots
 - 🗄️ **Databases** : Oracle, MySQL, PostgreSQL, Firebase
 - 🧰 **Tools & Platforms** : Git, Docker, Swagger, DBeaver
 
